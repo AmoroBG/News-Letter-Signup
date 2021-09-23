@@ -1,0 +1,1 @@
+This is a simple news letter sign-up application. It is bult using Node/ ExpressJS
